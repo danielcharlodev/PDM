@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 void main() {
-  runApp(MaterialApp(home: NumeroAleatorio()));
+  runApp(MaterialApp(home: NumeroAleatorio
+()));
 }
 
 class NumeroAleatorio extends StatefulWidget{
